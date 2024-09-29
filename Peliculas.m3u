@@ -94,7 +94,7 @@ https://dl.dropbox.com/scl/fi/2pi0ydfrszyul2ldnrv1d/PS3MOVIE-..mp4?rlkey=uj5nuq1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pm1Kyhh/IMG-20240626-192700-371.jpg"  group-title="INFANTILES",Megamente Vs. El sindicato de la perdicion (2024)
 https://dl.dropbox.com/scl/fi/8uu2kldarmr0i5lgmbe85/Megamind2.mkv?rlkey=fni3k2hwdm9qouve5zgu7ku95
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j4K31Vw/IMG-20240626-163625-979.jpg" group-tile="GENERAL" ,La Sirenita (2023)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j4K31Vw/IMG-20240626-163625-979.jpg" group-title="GENERAL" ,La Sirenita (2023)
 https://dl.dropbox.com/s/z3yo7vzm3vzm0g1/S1R3N1T4.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qsRw5jV/rbd.jpg" group-title="ANIMACION",Sueño de robot (2023)
@@ -232,7 +232,7 @@ https://cache010.peliscdn.online/newhls/09e9cd9194378bd3ef542f67f7599cb8/EP.0.1.
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/pokemon-la-pelicula-mewtwo-vs-mew.jpg" group-title="POKEMON",Pokémon 1
 https://cache009.peliscdn.online/newhls/b42bffee51a695c128b7432bf684839c/EP.0.1.v1.1709053006.1080.m3u8
 
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/pokemon-2-el-poder-de-uno-1601415008.jpg" group-title"POKEMON",Pokémon 2
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/pokemon-2-el-poder-de-uno-1601415008.jpg" group-title="POKEMON",Pokémon 2
 https://cache013.peliscdn.online/newhls/2f98aa03ae17226e739b6dff83cdeb08/EP.0.1.v0.1708953189.360.m3u8
 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/pokemon-3-el-hechizo-de-los-unown-1601415610.jpg" group-title="POKEMON", Pokémon 3
