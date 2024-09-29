@@ -1,27 +1,27 @@
 #EXTM3U
 
 -----cars-------
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cars.jpg" group-title="INFANTILES",Cars 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cars.jpg" group-title="INFANTILES", Cars 
  https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/Ca.2006.mp4
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cars-2-una-nueva-aventura-sobre-ruedas.jpg" group-title="INFANTILES",Cars 2: Una Nueva Aventura Sobre Ruedas (2011) 720p latino 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cars-2-una-nueva-aventura-sobre-ruedas.jpg" group-title="INFANTILES", Cars 2: Una Nueva Aventura Sobre Ruedas (2011) 720p latino 
 https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/Ca.2.mp4
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cars-3.jpg" group-title="INFANTILES",Cars 3 (2017) 360p latino
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cars-3.jpg" group-title="INFANTILES", Cars 3 (2017) 360p latino
 https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/Ca.3.mp4
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1V34tiUPo3memMuCFlGhpA7ODbj.jpg"  group-tile="INFANTILES",La Familia del Futuro (2007) 720p latino
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1V34tiUPo3memMuCFlGhpA7ODbj.jpg"  group-tile="INFANTILES", La Familia del Futuro (2007) 720p latino
 https://github.com/linkarg13/SERIES2/releases/download/Theumbrescademy3/fam1lyd3lfutur0.mp4
 
-#EXTINF:-1 tvg-logo="https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY_PTD1.jpg"  group-tile="INFANTILES", TOY STORY (1995)
+#EXTINF:-1 tvg-logo="https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY_PTD1.jpg"  group-tile="INFANTILES",TOY STORY (1995)
 https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY1.mp4
 
-#EXTINF:-1 tvg-logo="https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY_PTD2.jpg"  group-tile="INFANTILES", TOY STORY 2 (1999)
+#EXTINF:-1 tvg-logo="https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY_PTD2.jpg"  group-tile="INFANTILES",TOY STORY 2 (1999)
 https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY2.mp4
 
-#EXTINF:-1 tvg-logo="https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY_PTD3.jpg"  group-tile="INFANTILES", TOY STORY 3 (2010)
+#EXTINF:-1 tvg-logo="https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY_PTD3.jpg"  group-tile="INFANTILES",TOY STORY 3 (2010)
 https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY3.mp4
 
-#EXTINF:-1 tvg-logo="https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY_PTD4.jpg"  group-tile="INFANTILES", TOY STORY 4 (2019)
+#EXTINF:-1 tvg-logo="https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY_PTD4.jpg"  group-tile="INFANTILES",TOY STORY 4 (2019)
 https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY4.mkv
 
 
@@ -100,7 +100,7 @@ https://dl.dropbox.com/s/z3yo7vzm3vzm0g1/S1R3N1T4.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qsRw5jV/rbd.jpg" group-title="ANIMACION",Sueño de robot (2023)
 https://dl.dropbox.com/scl/fi/j6zz8asik2juc8xq3oguq/RBD.mp4?rlkey=jjwls5sfsk8lwstiz38je7o60
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R6LNT6v/IMG-20240626-200736-468.jpg"  group-tile="INFANTILES",Vivo (2021)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R6LNT6v/IMG-20240626-200736-468.jpg"  group-tile="INFANTILES" ,Vivo (2021)
 https://archive.org/download/manguera_20210808/V1v0.mkv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJt5B87/242395.jpg" group-title="INFANTILES",Home hogar dulce hogar
